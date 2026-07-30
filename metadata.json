@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Command OS",
+  "description": "Enterprise executive portal featuring real-time analytics, user account management, access controls, and security management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
